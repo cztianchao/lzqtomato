@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7426BBF52445A27100E2D46D /* welcome.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 749345732445990400F52615 /* welcome.jpeg */; };
 		7451F9D7243EC8A800786A04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7451F9D5243EC8A800786A04 /* LaunchScreen.storyboard */; };
 		7451FA26243F1F2700786A04 /* TaskAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 7451FA25243F1F2700786A04 /* TaskAdd.m */; };
 		745A026E2440C4B300A6D5EC /* FinishNotice.m in Sources */ = {isa = PBXBuildFile; fileRef = 745A026D2440C4B300A6D5EC /* FinishNotice.m */; };
@@ -301,6 +302,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7426BBF52445A27100E2D46D /* welcome.jpeg in Resources */,
 				749104FF2440725900A660DC /* back.jpeg in Resources */,
 				746ADAEC243C61A700F94461 /* MainViewController.xib in Resources */,
 				7451F9D7243EC8A800786A04 /* LaunchScreen.storyboard in Resources */,

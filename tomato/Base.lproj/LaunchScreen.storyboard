@@ -23,7 +23,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="welcome.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="vu7-I4-ePT">
-                                <rect key="frame" x="-222" y="-317" width="829" height="1461"/>
+                                <rect key="frame" x="-211" y="-284" width="829" height="1461"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
