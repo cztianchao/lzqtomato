@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		7451F9D7243EC8A800786A04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7451F9D5243EC8A800786A04 /* LaunchScreen.storyboard */; };
-		7451F9D9243ECC8800786A04 /* welcome.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7451F9D8243ECC8700786A04 /* welcome.jpg */; };
 		7451FA26243F1F2700786A04 /* TaskAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 7451FA25243F1F2700786A04 /* TaskAdd.m */; };
 		745A026E2440C4B300A6D5EC /* FinishNotice.m in Sources */ = {isa = PBXBuildFile; fileRef = 745A026D2440C4B300A6D5EC /* FinishNotice.m */; };
 		746ADAB5243C60B600F94461 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 746ADAB4243C60B600F94461 /* AppDelegate.m */; };
@@ -49,7 +48,6 @@
 
 /* Begin PBXFileReference section */
 		7451F9D6243EC8A800786A04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7451F9D8243ECC8700786A04 /* welcome.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = welcome.jpg; path = pics/welcome.jpg; sourceTree = SOURCE_ROOT; };
 		7451FA24243F1F2700786A04 /* TaskAdd.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TaskAdd.h; sourceTree = "<group>"; };
 		7451FA25243F1F2700786A04 /* TaskAdd.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TaskAdd.m; sourceTree = "<group>"; };
 		745A026C2440C4B300A6D5EC /* FinishNotice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FinishNotice.h; sourceTree = "<group>"; };
@@ -87,6 +85,7 @@
 		749104FB2440701700A660DC /* CountdownView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CountdownView.h; sourceTree = "<group>"; };
 		749104FC2440701700A660DC /* CountdownView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CountdownView.m; sourceTree = "<group>"; };
 		749104FE2440725900A660DC /* back.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = back.jpeg; path = pics/back.jpeg; sourceTree = SOURCE_ROOT; };
+		749345732445990400F52615 /* welcome.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = welcome.jpeg; path = Model/welcome.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,12 +139,12 @@
 			children = (
 				74768E81244168130060DA82 /* Model */,
 				749104FE2440725900A660DC /* back.jpeg */,
-				7451F9D8243ECC8700786A04 /* welcome.jpg */,
 				746ADAB3243C60B600F94461 /* AppDelegate.h */,
 				746ADAB4243C60B600F94461 /* AppDelegate.m */,
 				746ADAB6243C60B600F94461 /* SceneDelegate.h */,
 				746ADAB7243C60B600F94461 /* SceneDelegate.m */,
 				7451F9D5243EC8A800786A04 /* LaunchScreen.storyboard */,
+				749345732445990400F52615 /* welcome.jpeg */,
 				746ADABF243C60C200F94461 /* Assets.xcassets */,
 				746ADAC4243C60C200F94461 /* Info.plist */,
 				746ADAC5243C60C200F94461 /* main.m */,
@@ -304,7 +303,6 @@
 			files = (
 				749104FF2440725900A660DC /* back.jpeg in Resources */,
 				746ADAEC243C61A700F94461 /* MainViewController.xib in Resources */,
-				7451F9D9243ECC8800786A04 /* welcome.jpg in Resources */,
 				7451F9D7243EC8A800786A04 /* LaunchScreen.storyboard in Resources */,
 				746ADAC0243C60C200F94461 /* Assets.xcassets in Resources */,
 				746ADE8F243C7B4D00FAE9A2 /* pics in Resources */,
