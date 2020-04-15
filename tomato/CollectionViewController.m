@@ -77,7 +77,9 @@
     
     if([unarchiveObj isKindOfClass:[NSArray class]] && [unarchiveObj count] > 0){
         _tasklist = (NSArray<Tasks *>*)unarchiveObj;
-
+    }
+    if(!unarchiveObj){
+        _tasklist = nil;
     }
 }
 
